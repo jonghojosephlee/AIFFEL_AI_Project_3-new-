@@ -1,3 +1,5 @@
 # AIFFEL_AI_Project_4
 
-This documents are about stock prediction process based on Time-Series & ARIMA
+These documents are about the stock prediction process based on Time-Series (Stationary) & ARIMA analysis.
+
+All CSV data were downloaded from Yahoo finance.
